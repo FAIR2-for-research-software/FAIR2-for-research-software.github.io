@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   FAIR and reproducible research software training programme at the University of Sheffield
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-# github_username:  jekyll
+github_username:  FAIR2-for-research-software
 
 # Build settings
 theme: minima
