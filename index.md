@@ -14,6 +14,9 @@ modules, which can be selected according to an individual’s learning goals.
 The course materials are made available as open educational resources for ongoing use at the
 University of Sheffield and in the wider community.
 
+For more information about the programme at the University of Sheffield, visit
+[https://rse.sheffield.ac.uk/training/fair4rs/](https://rse.sheffield.ac.uk/training/fair4rs/).
+
 ## Outline of the programme
 
 - [Better Software for Better Research: Introduction to the FAIR training
