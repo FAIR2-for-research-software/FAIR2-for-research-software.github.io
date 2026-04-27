@@ -14,7 +14,7 @@ modules, which can be selected according to an individual’s learning goals.
 The course materials are made available as open educational resources for ongoing use at the
 University of Sheffield and in the wider community. Unless otherwise noted, the instructional
 material in this curriculum is made available under the
-[https://creativecommons.org/licenses/by/4.0/](Creative Commons Attribution 4.0 license). Please see
+[Creative Commons Attribution 4.0 license](https://creativecommons.org/licenses/by/4.0/). Please see
 the individual modules below for further details.
 
 For more information about the programme at the University of Sheffield, visit
