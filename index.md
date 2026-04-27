@@ -12,7 +12,10 @@ research software and gives an overview of the topics that are offered in more d
 modules, which can be selected according to an individual’s learning goals.
 
 The course materials are made available as open educational resources for ongoing use at the
-University of Sheffield and in the wider community.
+University of Sheffield and in the wider community. Unless otherwise noted, the instructional
+material in this curriculum is made available under the
+[Creative Commons Attribution 4.0 license](https://creativecommons.org/licenses/by/4.0/). Please see
+the individual modules below for further details.
 
 For more information about the programme at the University of Sheffield, visit
 [https://rse.sheffield.ac.uk/training/fair4rs/](https://rse.sheffield.ac.uk/training/fair4rs/).
